@@ -29,3 +29,4 @@ C:\Users\kacperbok\Desktop\Repositories\Private\PizzeriaAPI\PizzeriaAPI\obj\Debu
 C:\Users\kacperbok\Desktop\Repositories\Private\PizzeriaAPI\PizzeriaAPI\obj\Debug\net8.0\BurgerAPI.pdb
 C:\Users\kacperbok\Desktop\Repositories\Private\PizzeriaAPI\PizzeriaAPI\obj\Debug\net8.0\BurgerAPI.genruntimeconfig.cache
 C:\Users\kacperbok\Desktop\Repositories\Private\PizzeriaAPI\PizzeriaAPI\obj\Debug\net8.0\ref\BurgerAPI.dll
+C:\Users\kacperbok\Desktop\Repositories\Private\PizzeriaAPI\PizzeriaAPI\obj\Debug\net8.0\BurgerAPI.sourcelink.json

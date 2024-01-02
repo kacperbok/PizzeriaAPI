@@ -19,9 +19,5 @@
             _burger.Name = BURGER_NAME;
             GetBurger();
         }
-        public Burger GetBurger()
-        { 
-            return _burger;
-        }
     }
 }
